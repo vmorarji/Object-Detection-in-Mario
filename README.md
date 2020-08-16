@@ -2,8 +2,7 @@
 
 A simple OpenCV object detection of sprites within an emulated game of Super Mario Bros. Using the relative locations of Mario against enemies and obstacles, an agent can be used to play the level 1-1 to completion.
 
-
-
+![alt text](https://github.com/vmorarji/Object-Detection-in-Mario/blob/master/assets/Mario.gif "Level 1-1")
 
 
 ### Requirements
